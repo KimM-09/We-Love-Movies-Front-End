@@ -14,7 +14,7 @@ headers.append("Content-Type", "application/json");
  * @param url
  *  the url for the requst.
  * @param options
- *  any options for fetch
+ *  any options for fetch 
  * @param onCancel
  *  value to return if fetch call is aborted. Default value is undefined.
  * @returns {Promise<Error|any>}
